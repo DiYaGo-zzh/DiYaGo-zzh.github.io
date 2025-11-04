@@ -27,8 +27,8 @@ I am currently pursuing the M.S. degree in Institute of Artificial Intelligence 
 ------
 - Sep 2024 - Now, Master
 
-Artificial Intelligence, Xiamen University.
+  Artificial Intelligence, Xiamen University.
 
 - Sep 2020 - Jun 2024, Undergraduate
 
-School of Software, Jiangxi Agricultural University.
+  School of Software, Jiangxi Agricultural University.
