@@ -16,9 +16,9 @@ Research Interests
 - Computer Vision
 
 
-### 🧾 Publications
-
-#### **OV-VOD: Open-Vocabulary Video Object Detection**
+🧾 Publications
+------
+- **OV-VOD: Open-Vocabulary Video Object Detection**
 Authors: **Zhihong Zheng**, Yang Cao, Junlong Gao, and Hanzi Wang* 
 *In Proceedings of the ACM International Conference on Mmultimedia*(ACM MM), 2025 [📄 Paper Link](https://doi.org/10.1145/3746027.3755402)
 
