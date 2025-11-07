@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing the M.S. degree in Institute of Artificial Intelligence at Xiamen University, advised by [Prof. Hanzi Wang (王菡子)](https://pami.xmu.edu.cn/hanzi/). Previously, I received the B.S. degree from Jiangxi Agricultural University, advised by [Prof. Wenbin Qian (钱文彬)](https://ruanjianxy.jxau.edu.cn/info/1018/1041.htm).
+I am currently pursuing the M.S. degree in Key Laboratory of Multimedia Trusted Perception and Efficient Computing at Xiamen University, advised by [Prof. Hanzi Wang (王菡子)](https://pami.xmu.edu.cn/hanzi/). Previously, I received the B.S. degree from Jiangxi Agricultural University, advised by [Prof. Wenbin Qian (钱文彬)](https://ruanjianxy.jxau.edu.cn/info/1018/1041.htm).
 
 
 🔥Research Interests
