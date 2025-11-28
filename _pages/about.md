@@ -9,6 +9,11 @@ redirect_from:
 I am currently pursuing the M.S. degree in Key Laboratory of Multimedia Trusted Perception and Efficient Computing at Xiamen University, advised by [Prof. Hanzi Wang (王菡子)](https://pami.xmu.edu.cn/hanzi/). Previously, I received the B.S. degree from Jiangxi Agricultural University, advised by [Prof. Wenbin Qian (钱文彬)](https://ruanjianxy.jxau.edu.cn/info/1018/1041.htm).
 
 
+🆕 Recent News
+------
+- **Jul 5 2025:** One paper is accepted by ACM MM! We are the first to explore the task setting and evaluation benchmark for video object detection under the open-vocabulary paradigm, and we also propose a new baseline method for open-vocabulary video object detection.
+
+
 🔥Research Interests
 ------
 - Open-Vocabulary Video Object Detection
