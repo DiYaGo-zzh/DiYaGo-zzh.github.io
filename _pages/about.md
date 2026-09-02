@@ -31,7 +31,11 @@ I am currently pursuing the Ph.D. degree in Key Laboratory of Multimedia Trusted
 
 🏫Educations
 ------
-- Sep 2024 - Now, Master
+- Sep 2026 - Now, PhD Student
+
+  School of Informatics, Xiamen University.
+
+- Sep 2024 - Jun 2026, Master Student
 
   Artificial Intelligence, Xiamen University.
 
